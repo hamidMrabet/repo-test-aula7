@@ -1,1 +1,5 @@
-Hello, criaçao de primeiro projeto
+Hello, adicionar nova funcionalité no nosso programme
+
+print(welcome)
+
+
